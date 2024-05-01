@@ -7,3 +7,5 @@ Herzlich Willkommen, du hast es tatsächlich auf meine Website geschafft. Du gla
 Auf meiner Website Dreht sich alle um Programmuieren, Linux und Termux
 
 # Warum Linux bzw. Termux
+
+Linux ist in meinen Augen das beste Betriebssystem was es gibt und Termux ist ein Linux Emulator für Android, welches auch sehr gut ist.
